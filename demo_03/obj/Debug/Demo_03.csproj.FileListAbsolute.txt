@@ -1,0 +1,22 @@
+c:\users\adaptrum\documents\visual studio 2015\Projects\Demo_03\Demo_03\bin\Debug\Demo_03.exe.config
+C:\Users\Victor Chen\Desktop\Demo_03\Demo_03\bin\Debug\Demo_03.exe.config
+C:\Users\Victor Chen\Desktop\Demo_03\Demo_03\obj\Debug\Demo_03.csprojResolveAssemblyReference.cache
+C:\Users\Adaptrum\Desktop\Demo_03\Demo_03\bin\Debug\Demo_03.exe.config
+C:\Users\Adaptrum\Desktop\Demo_03\Demo_03\bin\Debug\Demo_03.exe
+C:\Users\Adaptrum\Desktop\Demo_03\Demo_03\bin\Debug\Demo_03.pdb
+C:\Users\Adaptrum\Desktop\Demo_03\Demo_03\obj\Debug\Demo_03.exe
+C:\Users\Adaptrum\Desktop\Demo_03\Demo_03\obj\Debug\Demo_03.pdb
+C:\Users\Victor Chen\Desktop\Demo_03\Demo_03\obj\Debug\Demo_03.exe
+C:\Users\Victor Chen\Desktop\Demo_03\Demo_03\obj\Debug\Demo_03.pdb
+C:\Users\Victor Chen\Google 云端硬盘\NeuralNet\Demo_03\Demo_03\bin\Debug\Demo_03.exe.config
+C:\Users\Victor Chen\Google 云端硬盘\NeuralNet\Demo_03\Demo_03\bin\Debug\Demo_03.exe
+C:\Users\Victor Chen\Google 云端硬盘\NeuralNet\Demo_03\Demo_03\bin\Debug\Demo_03.pdb
+C:\Users\Victor Chen\Google 云端硬盘\NeuralNet\Demo_03\Demo_03\obj\Debug\Demo_03.exe
+C:\Users\Victor Chen\Google 云端硬盘\NeuralNet\Demo_03\Demo_03\obj\Debug\Demo_03.pdb
+C:\Users\Victor Chen\Google 云端硬盘\NeuralNet\Demo_03\Demo_03\obj\Debug\Demo_03.csprojResolveAssemblyReference.cache
+C:\Users\Victor\Google 云端硬盘\NeuralNet\Demo_03\Demo_03\bin\Debug\Demo_03.exe.config
+C:\Users\Victor\Google 云端硬盘\NeuralNet\Demo_03\Demo_03\bin\Debug\Demo_03.exe
+C:\Users\Victor\Google 云端硬盘\NeuralNet\Demo_03\Demo_03\bin\Debug\Demo_03.pdb
+C:\Users\Victor\Google 云端硬盘\NeuralNet\Demo_03\Demo_03\obj\Debug\Demo_03.csprojResolveAssemblyReference.cache
+C:\Users\Victor\Google 云端硬盘\NeuralNet\Demo_03\Demo_03\obj\Debug\Demo_03.exe
+C:\Users\Victor\Google 云端硬盘\NeuralNet\Demo_03\Demo_03\obj\Debug\Demo_03.pdb
